@@ -1,0 +1,34 @@
+/* CSS Document */
+
+.marca{
+	border-style:dotted;
+	border-color:#900;
+	}
+	
+#nerva{
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-weight:bold;
+	height:20%;
+	 }
+	 
+.letraP{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:5 !important;
+	}	 
+	
+#row1{
+	height:40px;
+	}	
+	
+#row2{
+	height:20px;
+	}	
+	
+	
+#r1f1{
+	background-color:#060;
+	}
+	
+		
+	
+
